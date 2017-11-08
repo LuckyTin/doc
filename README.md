@@ -1,3 +1,4 @@
 # doc
-some documents like note，idea ... are stored here
+some documents like note，idea ... are stored here 
+
 use markdown
